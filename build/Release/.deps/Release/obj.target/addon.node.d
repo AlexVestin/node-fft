@@ -1,0 +1,1 @@
+cmd_Release/obj.target/addon.node := g++ -shared -pthread -rdynamic -m64 -L/home/gaz/prog/fft/bin  -Wl,-soname=addon.node -o Release/obj.target/addon.node -Wl,--start-group Release/obj.target/addon/main.o -Wl,--end-group -Wl,-rpath -Wall -lstdc++ -lmuFFT -lmuFFT-sse -lmuFFT-sse3 -lmuFFT-avx -lm

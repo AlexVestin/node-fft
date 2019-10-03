@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/muFFT-test.dir/test.c.o  -o muFFT-test libmuFFT.a -lfftw3f libmuFFT-sse.a libmuFFT-sse3.a libmuFFT-avx.a -lm 

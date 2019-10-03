@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/muFFT-bench.dir/bench.c.o  -o muFFT-bench libmuFFT.a -lfftw3f libmuFFT-sse.a libmuFFT-sse3.a libmuFFT-avx.a -lm 

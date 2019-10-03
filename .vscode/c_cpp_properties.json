@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": ":D",
+            "includePath": [
+                "/home/gaz/prog/fft/node_modules/node-addon-api",
+                "/home/gaz/prog/fft/muFFT",
+                "/usr/include/node/"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

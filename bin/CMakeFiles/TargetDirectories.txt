@@ -1,0 +1,8 @@
+/home/gaz/prog/fft/bin/CMakeFiles/muFFT-test.dir
+/home/gaz/prog/fft/bin/CMakeFiles/muFFT-sse.dir
+/home/gaz/prog/fft/bin/CMakeFiles/muFFT-sse3.dir
+/home/gaz/prog/fft/bin/CMakeFiles/rebuild_cache.dir
+/home/gaz/prog/fft/bin/CMakeFiles/muFFT.dir
+/home/gaz/prog/fft/bin/CMakeFiles/muFFT-avx.dir
+/home/gaz/prog/fft/bin/CMakeFiles/edit_cache.dir
+/home/gaz/prog/fft/bin/CMakeFiles/muFFT-bench.dir
